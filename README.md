@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Robson-M-Aredes
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Python and Flask and will move on to TypeScript and React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on small scale projects to get acquainted with working with other developers
 - 📫 How to reach me: through my Linkedin ( https://www.linkedin.com/in/robson-melo-aredes-costa-489822294/ )
 
 <!---
